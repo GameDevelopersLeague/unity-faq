@@ -1,5 +1,5 @@
 # Unity FAQ
-This is the repo for the unity-faq channel in Discord.gg/gamedev
+This is the repo for the unity-faq channel in [Game Developers League](Discord.gg/gamedev) discord server
 
 # Contributing
 To contribute changes to the FAQ channel contents:
