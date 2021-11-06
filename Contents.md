@@ -20,6 +20,7 @@ If you aren't a fan of programming, Unity also provides a visual scripting langu
 **Where do I start learning Unity?**
 There are many quality tutorials on Unity to be found around the web, but a good starting place is the official Unity learning portal <https://learn.unity.com/>
 If you get stuck, you can always ask for help in #unity-dev as well :)
+For more links, you can go to the pinned messages of #unity-dev: https://discord.com/channels/85338836384628736/85593628650504192/812720381295067177
 
 **What features does Unity offer?**
 Unity is a Component-driven game engine for C# with a significant amount of built-in tools and functionality to get you started making your own games.
