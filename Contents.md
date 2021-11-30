@@ -33,7 +33,7 @@ Unity Manuals are available here: <https://docs.unity3d.com/Manual/> and describ
 
 **I want to make an {insert genre here} game. How do I do that?**
 Unity Learn has guides for many different genres and mechanics: that's a great place to start!
-The key to learning game development it to *start small*. We often try to jump headfirst into a project that is too ambitious and get burnt out.
+The key to learning game development is to *start small*. We often try to jump headfirst into a project that is too ambitious and get burnt out.
 A good first step is to make a clone of a simple game that is similar to what you want to make. Common suggestions include Pong, Breakout, and other Atari favorites!
 
 **How do I fix {insert error here}?**
